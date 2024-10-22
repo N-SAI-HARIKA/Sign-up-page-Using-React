@@ -4,9 +4,9 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-import Login from "./components/Login";
-import Signup from "./components/Signup";
-import Dashboard from "./components/Dashboard";
+import Login from "./components/Login.jsx";
+import Signup from "./components/Signup.jsx";
+import Dashboard from "./components/Dashboard.jsx";
 import { useState } from "react";
 import { useEffect } from "react";
 
